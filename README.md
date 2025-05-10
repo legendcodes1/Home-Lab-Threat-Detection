@@ -91,8 +91,8 @@ Welcome to my personal cybersecurity lab project designed to simulate real-world
 
 If you're a recruiter or engineer interested in this project, feel free to reach out:
 
-* **LinkedIn**: \[Your LinkedIn URL]
-* **Email**: \[Your professional email]
+* **LinkedIn**: \[https://www.linkedin.com/in/faruq-sowemimo/]
+* **Email**: \[Olafaruq1@gmail.com]
 
 ---
 
